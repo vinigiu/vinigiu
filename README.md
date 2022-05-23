@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="(https://www.instagram.com/p/BhBulREA87EaTrCd8nwz52vRuyT2eItByO0xIc0/)">
+<img align="right" width="400" height="400" src="https://www.instagram.com/p/BhBulREA87EaTrCd8nwz52vRuyT2eItByO0xIc0/">
  
 # Welcome!
  

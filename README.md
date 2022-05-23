@@ -1,4 +1,4 @@
-<img align="right" width="400" height="600" src="https://i.ibb.co/p231LpL/foto-Perfil.png">
+<img align="right" width="400" height="500" src="https://i.ibb.co/p231LpL/foto-Perfil.png">
  
 # Welcome!
  

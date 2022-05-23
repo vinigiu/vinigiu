@@ -4,9 +4,10 @@
  
 ## I'm Vinícius Giuseppe Guida!
  
-Recently became a Dev and loving this world and its particularities!
+Recently became a Dev and very ansious to work on new projects and keep on learning every day!
 
-I have a 7 years background of football (soccer for those in USA) coach which gave me a lot good and memorable experiences! I've lived a dream those years, but now i'm willing to live another dreams and experiences on Dev!
+I have a 7 years background of football (soccer for those in USA) coach which gave me a lot of good and memorable experiences! I've lived a dream those years, but now i'm willing to live another dreams and experiences as a Dev! 
+Feel free to contact me whenever you want!
  
  
 ## About me 

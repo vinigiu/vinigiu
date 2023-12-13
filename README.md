@@ -4,11 +4,13 @@
  
 ## I'm Vinícius Giuseppe Guida!
  
-Recently became a Dev and very ansious to work on new projects and keep on learning every day!
+For 7 years, I worked as a soccer coach in the youth divisions of a major Brazilian club. This experience enriched me in various ways. Amidst victories and defeats, I was able to learn a lot about leadership, teamwork, and the power of daily hard work, values that I have carried with me ever since and seek to apply in any work environment. This experience also enabled me to develop problem-solving skills and a focus on results.
 
-I have a 7 years background of football coach which gave me a lot of good and memorable experiences! I've lived a dream those years, but now i'm willing to live another dreams and experiences as a Dev! 
-Feel free to contact me whenever you want!
- 
+My passion for technology and its possibilities led me to choose the path of Development. Since March 2022, I have been working as a Full-Stack Web Developer. I am passionate about learning and the pursuit of knowledge, always seeking new experiences that can contribute to my professional and personal growth.
+
+I greatly enjoy encountering a problem that needs to be solved, one that requires me to use tools I already have and to search for new tools that I am not yet familiar with to resolve it.
+
+I develop personal projects on my GitHub, where I use technologies such as Node.js, Typescript, Express, Next.js, Postgres, MySQL, React, HTML, EJS, CSS, JWT, among others.
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/vinigiu)
